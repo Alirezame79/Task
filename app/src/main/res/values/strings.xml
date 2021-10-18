@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="task_list">Task List</string>
+    <string name="add_task"><b>Adding Task</b></string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_additional_info">Task Additional Information (Optional)</string>
+    <string name="task_necessity">Necessity (Optional)</string>
+    <string name="level1">No Importance</string>
+    <string name="level2">Normal</string>
+    <string name="level3">Emergency</string>
+    <string name="save">Save</string>
+</resources>
